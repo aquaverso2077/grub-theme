@@ -21,11 +21,11 @@
 #general settings
 message-font: "Sevastopol Interface Regular 16"
 message-color: "#000"
-message-bg-color: "#b98000"
+message-bg-color: "#ddc7a1"
 terminal-font: "Sevastopol Interface Regular 16"
 desktop-color: "#000000"
-title-text: "SEEGSON"
-title-color: "#b98000"
+title-text: "GRUB UEFI"
+title-color: "#ddc7a1"
 title-font: "Sound System Regular 200"
 
 #help bar at the bottom
@@ -37,7 +37,7 @@ title-font: "Sound System Regular 200"
 	text = "@KEYMAP_MIDDLE@"
 	align = "center"
 	font = "Sevastopol Interface Regular 16"
-	color = "#b98000"
+	color = "#ddc7a1"
 }
 
 + label {
@@ -46,11 +46,11 @@ title-font: "Sound System Regular 200"
         height = 30
         width = 600
       
-        color = "#b98000"
+        color = "#ddc7a1"
       
-        align = "right"
+        align = "center"
         font = "Sevastopol Interface Regular 72"
-        text = "REWIRE SYSTEM BOOT"
+        text = "SYSTEM BOOT"
 }
 
 
@@ -61,9 +61,9 @@ title-font: "Sound System Regular 200"
 	top = 36%
 	height = 50%	
 	item_font = "Sevastopol Interface Regular 72"
-	item_color = "#b98000"
+	item_color = "#ddc7a1"
 	selected_item_font = "Sevastopol Interface Regular 72"
-	selected_item_color = "#f5ac02"
+	selected_item_color = "#93947b"
 	icon_height = 25
 	icon_width = 25
 	item_height = 40
@@ -83,10 +83,8 @@ title-font: "Sound System Regular 200"
 	height = 20
 	width = 70%
 	font = "Sevastopol Interface Regular 16"
-	text_color = "#b98000"
-	fg_color = "#b98000"
+	text_color = "#ddc7a1"
+	fg_color = "#ddc7a1"
 	bg_color = "#000"
-	border_color = "#b98000"
-	text = "@TIMEOUT_NOTIFICATION_LONG@"
-}
-
+	border_color = "#ddc7a1"
+	text = "@TIMEOUT_NOTIFICATION_LONddc7a1
